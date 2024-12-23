@@ -4,8 +4,6 @@ I work as a Technical Trainer @aws. Formerly a php and vue enthusiast. Currently
 
 I create interactive web stuff using Laravel, AWS CDK / CloudFormation, Vue js, and Nuxt js. I love writing ✏️ articles about what I learn and share with open source community. You can find my other php and laravel pacakges on my other github orgs. namely [iwouldrathercode](https://github.com/iwouldrathercode), which is the main github org where you can find most of my public repositories.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=psgganesh)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **psgganesh/psgganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
